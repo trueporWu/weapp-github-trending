@@ -1,6 +1,6 @@
 <template>
     <view class="avatar-box">
-        <image class="avatar" src="https://avatars1.githubusercontent.com/u/5620429?s=60&v=4"></image>
+        <image class="avatar" src="https://avatars1.githubusercontent.com/u/12931528?s=460&v=4"></image>
     </view>
 </template>
 
